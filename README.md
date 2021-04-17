@@ -15,3 +15,8 @@ As stated above, the main objective is to provide an example for Git training de
 This is a simple web project, deployment can be on any web server of even local file system.
 
 ## How to Contribute
+
+
+### Copyright
+
+Copyright 2021
