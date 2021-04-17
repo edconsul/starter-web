@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Edmundo Consul edconsul20@gmal.com Consul_ED
 
 # THANKS
 
